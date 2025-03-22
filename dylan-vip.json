@@ -1,14 +1,7 @@
-[
-    {
-       "playerName": "Duckfromhell",
-       "uuid": "899cf199-cc5f-41a3-9e77-397e5a667c89"
-    },
-    {
-        "playerName": "Valkojam",
-        "uuid": "e954c7e8-c05c-4895-a71e-3ca2ff1d1a43"
-     },
-    {
-        "playerName": "ShelobsLair",
-        "uuid": "e81b5469-8ec8-44b2-8cd4-0648de7954d6"
-    }
-  ]
+{
+    "dylanVIP": [
+        "899cf199-cc5f-41a3-9e77-397e5a667c89",
+        "e954c7e8-c05c-4895-a71e-3ca2ff1d1a43",
+        "e81b5469-8ec8-44b2-8cd4-0648de7954d6"
+    ]
+}

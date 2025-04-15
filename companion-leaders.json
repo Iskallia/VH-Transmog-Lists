@@ -1,44 +1,26 @@
 [
-  {
-    "name": "LaboratoryLady",
-    "level": 12,
-    "xp": 1098.0,
-    "uuid": "5d1b68f1-8970-4061-8007-89d09f8351fc"
-  },
-  {
-    "name": "carolinet",
-    "level": 12,
-    "xp": 1032.0,
-    "uuid": "717bb1f5-20db-4d7b-bfc0-ea0f5d28e181"
-  },
-  {
-    "name": "27darkking",
-    "level": 21,
-    "xp": 2063.0,
-    "uuid": "c98ad877-660a-49d0-8b33-59a07e47a592"
-  },
-  {
-    "name": "zazzoto",
-    "level": 14,
-    "xp": 1241.0,
-    "uuid": "5461db8c-0405-4c2d-94df-321a1cbcf31b"
-  },
-  {
-    "name": "naarke",
-    "level": 17,
-    "xp": 1591.0,
-    "uuid": "943c8f47-8b8a-4582-ba3b-2befb1479112"
-  },
-  {
-    "name": "legendaryroots",
-    "level": 20,
-    "xp": 1916.0,
-    "uuid": "f6325c4f-bf71-45b4-99da-fac27654af20"
-  },
-  {
-    "name": "Meeffas",
-    "level": 17,
-    "xp": 1593.0,
-    "uuid": "dcb27514-3e10-48c3-bcf9-a5b12e32e7d2"
-  }
+	{ "name": "onlymichael_", "level": 16, "xp": 1496.0, "uuid": "65400a9c-9711-4daf-a96c-ae6a40a6ff16" },
+	{ "name": "ocsisor", "level": 14, "xp": 1266.0, "uuid": "ffd3e739-d6d4-4081-bded-1933a76fd36c" },
+	{ "name": "LaboratoryLady", "level": 15, "xp": 1377.0, "uuid": "5d1b68f1-8970-4061-8007-89d09f8351fc" },
+	{ "name": "itsarelli", "level": 15, "xp": 1360.0, "uuid": "5464dd67-5a46-4239-862f-b27b4944442c" },
+	{ "name": "kiwichild__", "level": 13, "xp": 1179.0, "uuid": "d89559bc-f43e-4ac1-9716-4e593b7550fb" },
+	{ "name": "biscuitgames128", "level": 17, "xp": 1542.0, "uuid": "1ae3fde2-64c4-46e7-9e4d-8231729e3d70" },
+	{ "name": "ace_huli", "level": 23, "xp": 2591.0, "uuid": "c318c4ad-cb58-4242-b898-a926443f6802" },
+	{ "name": "guybrrush", "level": 13, "xp": 1125.0, "uuid": "7e8775d3-492e-466c-bded-a06f94a8291e" },
+	{ "name": "hell_spawn_1993", "level": 14, "xp": 1295.0, "uuid": "933a0167-561b-4be2-8d3a-e553fdad36c3" },
+	{ "name": "carolinet", "level": 16, "xp": 1422.0, "uuid": "717bb1f5-20db-4d7b-bfc0-ea0f5d28e181" },
+	{ "name": "27darkking", "level": 31, "xp": 4132.0, "uuid": "c98ad877-660a-49d0-8b33-59a07e47a592" },
+	{ "name": "anupak22", "level": 18, "xp": 1698.0, "uuid": "b6202b03-b6c4-4e83-879b-1d54440407c3" },
+	{ "name": "maetti1286", "level": 13, "xp": 1149.0, "uuid": "4bd4f1ba-4ef6-4802-ab7b-ede98df77ba8" },
+	{ "name": "zazzoto", "level": 20, "xp": 1871.0, "uuid": "5461db8c-0405-4c2d-94df-321a1cbcf31b" },
+	{ "name": "zenzykai", "level": 13, "xp": 1172.0, "uuid": "51ad7135-1313-461f-8efc-595621742db7" },
+	{ "name": "naarke", "level": 25, "xp": 2836.0, "uuid": "943c8f47-8b8a-4582-ba3b-2befb1479112" },
+	{ "name": "shanolt3", "level": 20, "xp": 1829.0, "uuid": "ffa042e2-1941-4ad6-95fd-d140668000bc" },
+	{ "name": "legendaryroots", "level": 25, "xp": 2960.0, "uuid": "f6325c4f-bf71-45b4-99da-fac27654af20" },
+	{ "name": "zombihuntress", "level": 20, "xp": 1882.0, "uuid": "8191fcc2-9f24-4d28-8049-8c170f0cb2b5" },
+	{ "name": "Meeffas", "level": 21, "xp": 2098.0, "uuid": "dcb27514-3e10-48c3-bcf9-a5b12e32e7d2" },
+	{ "name": "paradoxiusblack", "level": 13, "xp": 1143.0, "uuid": "4833256b-8ea1-445a-b16b-5d79aa8e4307" },
+	{ "name": "bobokgirl", "level": 14, "xp": 1277.0, "uuid": "6329933b-fb98-4209-8b69-69494373a65e" },
+	{ "name": "darkest9469", "level": 19, "xp": 1713.0, "uuid": "6f303d0f-e4c6-4286-b197-bf6d694e66da" },
+	{ "name": "keeperofhonor03", "level": 15, "xp": 1313.0, "uuid": "e3f9ca8f-7e77-424a-933e-f4ed0f81c45b" }
 ]

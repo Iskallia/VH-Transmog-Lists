@@ -21,6 +21,11 @@
 	{ "name": "Meeffas", "level": 21, "xp": 2098.0, "uuid": "dcb27514-3e10-48c3-bcf9-a5b12e32e7d2" },
 	{ "name": "paradoxiusblack", "level": 13, "xp": 1143.0, "uuid": "4833256b-8ea1-445a-b16b-5d79aa8e4307" },
 	{ "name": "bobokgirl", "level": 14, "xp": 1277.0, "uuid": "6329933b-fb98-4209-8b69-69494373a65e" },
-	{ "name": "darkest9469", "level": 19, "xp": 1713.0, "uuid": "6f303d0f-e4c6-4286-b197-bf6d694e66da" },
-	{ "name": "keeperofhonor03", "level": 15, "xp": 1313.0, "uuid": "e3f9ca8f-7e77-424a-933e-f4ed0f81c45b" }
+	{ "name": "darkest9469", "level": 19, "xp": 1713.0, "uuid": "a37759b7-a741-43b6-b8f1-f1e4668072d0" },
+	{ "name": "keeperofhonor03", "level": 15, "xp": 1313.0, "uuid": "e3f9ca8f-7e77-424a-933e-f4ed0f81c45b" },
+	{ "name": "harleyatt", "level": 13, "xp": 1143.0, "uuid": "877eefc1-a3a5-463a-8dcd-e62dede024f1" },
+	{ "name": "hellpiegamin", "level": 12, "xp": 1031.0, "uuid": "899cf199-cc5f-41a3-9e77-397e5a667c89" },
+	{ "name": "soulfulmarch", "level": 12, "xp": 1078.0, "uuid": "5b090c36-7508-4a6e-bf3f-bbd33317055b" },
+	{ "name": "twolf999", "level": 13, "xp": 1195.0, "uuid": "unknown" },
+	{ "name": "draconad", "level": 12, "xp": 1064.9486, "uuid": "dbea6b51-5607-489e-9346-fd5580cfa75b" }
 ]

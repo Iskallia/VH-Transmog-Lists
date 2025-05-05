@@ -1,94 +1,800 @@
 [
-	{ "name": "kryptex89", "level": 14, "xp": 1285.3871, "uuid": "7cfad2e2-be11-4a37-a857-533ac43369d8" },
-	{ "name": "angelshine", "level": 13, "xp": 1153, "uuid": "be5a2a09-69e1-437b-96ea-c0774a0f5796" },
-	{ "name": "ghostwing97", "level": 16, "xp": 1424.7645, "uuid": "b4b1c992-4833-4b36-a9db-67213b94bb5d" },
-	{ "name": "onlymichael_", "level": 20, "xp": 1956, "uuid": "65400a9c-9711-4daf-a96c-ae6a40a6ff16" },
-	{ "name": "comradeqwasich", "level": 17, "xp": 1521.1165, "uuid": "2aaddd21-0d24-48e1-8328-221de1e5817e" },
-	{ "name": "ocsisor", "level": 20, "xp": 1801, "uuid": "ffd3e739-d6d4-4081-bded-1933a76fd36c" },
-	{ "name": "Knew_It_Owl", "level": 12, "xp": 1039.606, "uuid": "60f3f9c7-71d9-41c5-aff8-eee2caf70d43" },
-	{ "name": "LaboratoryLady", "level": 19, "xp": 1721, "uuid": "5d1b68f1-8970-4061-8007-89d09f8351fc" },
-	{ "name": "itsarelli", "level": 16, "xp": 1492, "uuid": "5464dd67-5a46-4239-862f-b27b4944442c" },
-	{ "name": "lpandamoniuml", "level": 15, "xp": 1359, "uuid": "eefa640c-b3cc-4eb2-8bcb-b5ecec96685b" },
-	{ "name": "BenBassett85", "level": 15, "xp": 1368, "uuid": "507225c1-2583-4040-96fc-e9a14bd1dc08" },
-	{ "name": "chatondaze", "level": 12, "xp": 1013.48413, "uuid": "f17fb781-a5c7-4055-a0d5-c985e7c05cc7" },
-	{ "name": "eliteace59", "level": 15, "xp": 1363, "uuid": "f5ad3884-114f-4174-a88e-0f4809e10ab7" },
-	{ "name": "harleyatt", "level": 18, "xp": 1670.0442, "uuid": "877eefc1-a3a5-463a-8dcd-e62dede024f1" },
-	{ "name": "Majmur", "level": 14, "xp": 1230.9044, "uuid": "d88ca9b5-8d20-4e24-9064-3895bf5b57d5" },
-	{ "name": "kiwichild__", "level": 17, "xp": 1530.1576, "uuid": "d89559bc-f43e-4ac1-9716-4e593b7550fb" },
-	{ "name": "biscuitgames128", "level": 22, "xp": 2207, "uuid": "1ae3fde2-64c4-46e7-9e4d-8231729e3d70" },
-	{ "name": "fur_nace", "level": 13, "xp": 1143.362, "uuid": "4f41dcda-449a-46b7-8635-88979061fdd2" },
-	{ "name": "ace_huli", "level": 28, "xp": 3477.5154, "uuid": "c318c4ad-cb58-4242-b898-a926443f6802" },
-	{ "name": "guybrrush", "level": 20, "xp": 1814, "uuid": "7e8775d3-492e-466c-bded-a06f94a8291e" },
-	{ "name": "lenawydd", "level": 15, "xp": 1315, "uuid": "c1820e52-46c7-4c37-9d8c-62158d55b97f" },
-	{ "name": "avenijel", "level": 13, "xp": 1135, "uuid": "ae74ad41-b733-46ca-9d92-3f6d836cca6f" },
-	{ "name": "saskiajordan97", "level": 12, "xp": 1047, "uuid": "88db7782-4caf-4a19-bea4-a1598bcd447a" },
-	{ "name": "hell_spawn_1993", "level": 16, "xp": 1427, "uuid": "933a0167-561b-4be2-8d3a-e553fdad36c3" },
-	{ "name": "jeremy__btw", "level": 15, "xp": 1301, "uuid": "17c0a300-f2b6-4667-a133-6e48b2436003" },
-	{ "name": "azaizen", "level": 12, "xp": 1049, "uuid": "a3c71e64-acf9-45f1-ae59-f43c70cb92d1" },
-	{ "name": "carolinet", "level": 22, "xp": 2219.2131, "uuid": "717bb1f5-20db-4d7b-bfc0-ea0f5d28e181" },
-	{ "name": "einstein0973", "level": 12, "xp": 1034, "uuid": "d9186d0a-a323-4887-bff7-46241308be9c" },
-	{ "name": "trey4514", "level": 16, "xp": 1472, "uuid": "d72441e2-0751-4264-989f-f58754e91639" },
-	{ "name": "thefrozenfish2", "level": 16, "xp": 1446.165, "uuid": "ecc455a8-6ec8-49a5-b5b4-d1469cdde943" },
-	{ "name": "27darkking", "level": 33, "xp": 4485, "uuid": "c98ad877-660a-49d0-8b33-59a07e47a592" },
-	{ "name": "HoY_82", "level": 12, "xp": 1001.45386, "uuid": "59c32f6e-9b2e-42ae-b6a4-b5d30fad494b" },
-	{ "name": "hellpiegamin", "level": 18, "xp": 1623.2561, "uuid": "899cf199-cc5f-41a3-9e77-397e5a667c89" },
-	{ "name": "anupak22", "level": 23, "xp": 2596, "uuid": "b6202b03-b6c4-4e83-879b-1d54440407c3" },
-	{ "name": "ridger___", "level": 13, "xp": 1182.0507, "uuid": "f45e427c-fb38-499a-b5c3-fe9f23cb986a" },
-	{ "name": "maetti1286", "level": 17, "xp": 1599.8413, "uuid": "4bd4f1ba-4ef6-4802-ab7b-ede98df77ba8" },
-	{ "name": "bigd_tiny420", "level": 13, "xp": 1157, "uuid": "cafb1352-f8d1-44ce-8758-bf82ef13f6cf" },
-	{ "name": "zazzoto", "level": 25, "xp": 2859, "uuid": "5461db8c-0405-4c2d-94df-321a1cbcf31b" },
-	{ "name": "zenzykai", "level": 20, "xp": 1924, "uuid": "51ad7135-1313-461f-8efc-595621742db7" },
-	{ "name": "naarke", "level": 30, "xp": 3954.8416, "uuid": "943c8f47-8b8a-4582-ba3b-2befb1479112" },
-	{ "name": "diagoraspl", "level": 12, "xp": 1014.4516, "uuid": "1ecd3646-e0e4-41d5-929c-7dd92f359c26" },
-	{ "name": "Brother_Ding", "level": 18, "xp": 1675.6456, "uuid": "d71f4628-1c57-458b-9a1d-c7553b2853e0" },
-	{ "name": "erionasplash", "level": 16, "xp": 1412, "uuid": "ca93b53b-cd54-4f9f-a103-bf0c83b64ee3" },
-	{ "name": "natertot145", "level": 12, "xp": 1054.5536, "uuid": "7640f085-d0f9-4f92-866e-ae39f8abce40" },
-	{ "name": "Tavy__", "level": 12, "xp": 1034.0629, "uuid": "5d99a3ae-b251-4971-acd1-8c523681dbf8" },
-	{ "name": "redlevi05", "level": 12, "xp": 1053.9119, "uuid": "6317aea2-c63d-479e-bbfc-ad0c67154e48" },
-	{ "name": "Jambox15", "level": 14, "xp": 1255, "uuid": "9cd53a13-4470-42af-ada5-9195c9335e5e" },
-	{ "name": "ms_crafty_", "level": 14, "xp": 1225.6954, "uuid": "4315aa80-3ddd-41c8-a34a-3c575cad1021" },
-	{ "name": "Krayks", "level": 12, "xp": 1022.57764, "uuid": "c987592c-e92a-4f31-b1be-8ec2f16bf9c7" },
-	{ "name": "th3ntity", "level": 12, "xp": 1018.55054, "uuid": "deee0c44-5a84-4178-8e23-d017a79feaae" },
-	{ "name": "lcedagger", "level": 13, "xp": 1140, "uuid": "1568cc3b-b397-4290-a897-287961d9cf32" },
-	{ "name": "oldunicorn77", "level": 15, "xp": 1367.996, "uuid": "ef96e7eb-d458-4759-9941-dee6009d4fb4" },
-	{ "name": "shanolt3", "level": 24, "xp": 2659, "uuid": "ffa042e2-1941-4ad6-95fd-d140668000bc" },
-	{ "name": "mjrwilk", "level": 12, "xp": 1047.7825, "uuid": "65e7e8a0-c989-4c1d-a283-1391c9f2cc75" },
-	{ "name": "eksedre", "level": 19, "xp": 1795, "uuid": "7fc951fe-a57f-456c-9b79-f5c8492a0fa0" },
-	{ "name": "queenjellyfish", "level": 14, "xp": 1211.5022, "uuid": "75ea6ef5-b1ff-4aa4-935d-32de30742d21" },
-	{ "name": "angrrrrydad", "level": 13, "xp": 1157.2716, "uuid": "71afc212-16b2-4a70-bf8d-29cc81e55a62" },
-	{ "name": "dannysnowpaw", "level": 13, "xp": 1165.2704, "uuid": "bf12dc2f-1ff2-44ae-a38b-8a88aa75e7bb" },
-	{ "name": "muttpacket", "level": 14, "xp": 1243.9617, "uuid": "eee8ce04-94b6-4a84-a804-422ce3ec67ec" },
-	{ "name": "wisemanpendle", "level": 12, "xp": 1028, "uuid": "9a34b2f9-6914-4b89-83ed-eb3d0ee0f994" },
-	{ "name": "legendaryroots", "level": 39, "xp": 5748, "uuid": "f6325c4f-bf71-45b4-99da-fac27654af20" },
-	{ "name": "jgray1178", "level": 13, "xp": 1113.3478, "uuid": "91e1435c-86ca-40d0-81a5-5224daadc812" },
-	{ "name": "explodingdice", "level": 15, "xp": 1372.6528, "uuid": "377ed0e7-5a4a-458a-b1e2-5332f71797db" },
-	{ "name": "acg94", "level": 12, "xp": 1055.3583, "uuid": "857bf551-5854-421a-8396-f29dfc20b05e" },
-	{ "name": "xploit_1", "level": 14, "xp": 1206, "uuid": "b22b833a-8075-4f15-bc2c-bbd44b688f0e" },
-	{ "name": "zombihuntress", "level": 25, "xp": 2975, "uuid": "8191fcc2-9f24-4d28-8049-8c170f0cb2b5" },
-	{ "name": "soulfulmarch", "level": 17, "xp": 1568, "uuid": "5b090c36-7508-4a6e-bf3f-bbd33317055b" },
-	{ "name": "Meeffas", "level": 22, "xp": 2363, "uuid": "dcb27514-3e10-48c3-bcf9-a5b12e32e7d2" },
-	{ "name": "luckiestrex3245", "level": 14, "xp": 1248, "uuid": "71865155-bc38-49dd-ac6a-bfbc2e292a80" },
-	{ "name": "kingofjokers420", "level": 12, "xp": 1066, "uuid": "1526a533-cf5e-4859-a7b1-d1d10b331336" },
-	{ "name": "Grim_Stoner", "level": 13, "xp": 1151.2722, "uuid": "4a2158e2-c252-43c6-b4e1-45d4a2b11b2d" },
-	{ "name": "paradoxiusblack", "level": 15, "xp": 1382, "uuid": "4833256b-8ea1-445a-b16b-5d79aa8e4307" },
-	{ "name": "DeaPulchritudo", "level": 13, "xp": 1112, "uuid": "964a9b63-7b7a-41ed-8475-48040950604c" },
-	{ "name": "vaultpanda02", "level": 12, "xp": 1056.4641, "uuid": "7430b99b-f999-45ed-88e5-de7dbdfb626e" },
-	{ "name": "enruko2", "level": 12, "xp": 1018.4327, "uuid": "cbae339f-4a87-45a3-9083-90bdc270501b" },
-	{ "name": "19ks93", "level": 12, "xp": 1067.2728, "uuid": "0e89c569-b9f2-4bf0-a311-e4a1f82a3d7a" },
-	{ "name": "NM_crazy", "level": 12, "xp": 1032.392, "uuid": "8de23038-634d-4c46-92b0-9c7b35579671" },
-	{ "name": "happymummy", "level": 12, "xp": 1064, "uuid": "5cd795f8-3b63-4d39-b569-c8d81306fe12" },
-	{ "name": "unkool_dad", "level": 12, "xp": 1049.9714, "uuid": "18c823de-1c30-4410-b374-e41c370ce84c" },
-	{ "name": "xinaro", "level": 13, "xp": 1177.1891, "uuid": "e4edcce7-f528-44a3-8660-98b5fb514468" },
-	{ "name": "trinityzn", "level": 14, "xp": 1288, "uuid": "44bfb833-9180-4fb0-b9ca-ecd30869689a" },
-	{ "name": "antonmartin04", "level": 17, "xp": 1594.1703, "uuid": "e528fca9-ca58-4db1-ad85-eee5663863ef" },
-	{ "name": "YoMummaClaire", "level": 12, "xp": 1004, "uuid": "8499a0fa-7c80-469b-bdcc-1fc5ac340f69" },
-	{ "name": "bobokgirl", "level": 20, "xp": 1834, "uuid": "6329933b-fb98-4209-8b69-69494373a65e" },
-	{ "name": "darkest9469", "level": 24, "xp": 2619.7905, "uuid": "a37759b7-a741-43b6-b8f1-f1e4668072d0" },
-	{ "name": "twolf999", "level": 15, "xp": 1327, "uuid": "816114cc-e384-4c7d-92b4-acd867115d73" },
-	{ "name": "FunIsGood_", "level": 12, "xp": 1042, "uuid": "dd7116b2-6890-4e92-a019-c2591bb7bd0a" },
-	{ "name": "Sqare24", "level": 13, "xp": 1115, "uuid": "6efba960-8708-4252-856b-ff01de7ed3d6" },
-	{ "name": "Kourtney_Cool", "level": 13, "xp": 1102, "uuid": "0f23a497-4882-4706-9523-593154e43cb5" },
-	{ "name": "draconad", "level": 16, "xp": 1438.2819, "uuid": "dbea6b51-5607-489e-9346-fd5580cfa75b" },
-	{ "name": "keeperofhonor03", "level": 17, "xp": 1578, "uuid": "e3f9ca8f-7e77-424a-933e-f4ed0f81c45b" },
-	{ "name": "SFK1231", "level": 12, "xp": 1004.6083, "uuid": "d6a1becf-8ab0-4e87-8e00-d62db9c8cfb7" }
+	{
+		"name": "kryptex89",
+		"level": 16,
+		"xp": 1407,
+		"uuid": "7cfad2e2-be11-4a37-a857-533ac43369d8"
+	},
+	{
+		"name": "extremeruprict",
+		"level": 12,
+		"xp": 1044.1073,
+		"uuid": "1fc8340e-f7b3-4fdc-a42d-42dd8b442ed9"
+	},
+	{
+		"name": "seejeigh",
+		"level": 12,
+		"xp": 1098.1074,
+		"uuid": "40468bbd-8afd-4e5f-b777-becde0554094"
+	},
+	{
+		"name": "angelshine",
+		"level": 14,
+		"xp": 1262.0454,
+		"uuid": "be5a2a09-69e1-437b-96ea-c0774a0f5796"
+	},
+	{
+		"name": "ghostwing97",
+		"level": 17,
+		"xp": 1542.7395,
+		"uuid": "b4b1c992-4833-4b36-a9db-67213b94bb5d"
+	},
+	{
+		"name": "onlymichael_",
+		"level": 21,
+		"xp": 2043.0997,
+		"uuid": "65400a9c-9711-4daf-a96c-ae6a40a6ff16"
+	},
+	{
+		"name": "comradeqwasich",
+		"level": 19,
+		"xp": 1724.8383,
+		"uuid": "2aaddd21-0d24-48e1-8328-221de1e5817e"
+	},
+	{
+		"name": "ocsisor",
+		"level": 20,
+		"xp": 1927,
+		"uuid": "ffd3e739-d6d4-4081-bded-1933a76fd36c"
+	},
+	{
+		"name": "Bahamut_V2",
+		"level": 12,
+		"xp": 1053,
+		"uuid": "b06ac382-73cc-4dd4-9176-980e3b4bd172"
+	},
+	{
+		"name": "Knew_It_Owl",
+		"level": 12,
+		"xp": 1039,
+		"uuid": "60f3f9c7-71d9-41c5-aff8-eee2caf70d43"
+	},
+	{
+		"name": "LaboratoryLady",
+		"level": 20,
+		"xp": 1821.6405,
+		"uuid": "5d1b68f1-8970-4061-8007-89d09f8351fc"
+	},
+	{
+		"name": "thereaperof1985",
+		"level": 13,
+		"xp": 1114.8231,
+		"uuid": "ecd385be-295a-4215-87e3-c65ae47f6d52"
+	},
+	{
+		"name": "chrisw333",
+		"level": 12,
+		"xp": 1006.6965,
+		"uuid": "23e7a9f3-f9c7-4d55-9141-98896243c610"
+	},
+	{
+		"name": "itsarelli",
+		"level": 17,
+		"xp": 1509,
+		"uuid": "5464dd67-5a46-4239-862f-b27b4944442c"
+	},
+	{
+		"name": "lpandamoniuml",
+		"level": 16,
+		"xp": 1435,
+		"uuid": "eefa640c-b3cc-4eb2-8bcb-b5ecec96685b"
+	},
+	{
+		"name": "BenBassett85",
+		"level": 16,
+		"xp": 1436.9808,
+		"uuid": "507225c1-2583-4040-96fc-e9a14bd1dc08"
+	},
+	{
+		"name": "theblondepenguin",
+		"level": 12,
+		"xp": 1070.2218,
+		"uuid": "afa1bfbc-84e3-4679-a1e2-42643f52b3ff"
+	},
+	{
+		"name": "chatondaze",
+		"level": 13,
+		"xp": 1103.892,
+		"uuid": "f17fb781-a5c7-4055-a0d5-c985e7c05cc7"
+	},
+	{
+		"name": "miss_alyvos",
+		"level": 12,
+		"xp": 1064.9684,
+		"uuid": "7ed3587b-e656-4689-90d6-08e11daaf907"
+	},
+	{
+		"name": "eliteace59",
+		"level": 16,
+		"xp": 1445.1993,
+		"uuid": "f5ad3884-114f-4174-a88e-0f4809e10ab7"
+	},
+	{
+		"name": "harleyatt",
+		"level": 19,
+		"xp": 1769.3428,
+		"uuid": "877eefc1-a3a5-463a-8dcd-e62dede024f1"
+	},
+	{
+		"name": "Majmur",
+		"level": 15,
+		"xp": 1331.2406,
+		"uuid": "d88ca9b5-8d20-4e24-9064-3895bf5b57d5"
+	},
+	{
+		"name": "kiwichild__",
+		"level": 17,
+		"xp": 1593.9664,
+		"uuid": "d89559bc-f43e-4ac1-9716-4e593b7550fb"
+	},
+	{
+		"name": "biscuitgames128",
+		"level": 22,
+		"xp": 2256,
+		"uuid": "1ae3fde2-64c4-46e7-9e4d-8231729e3d70"
+	},
+	{
+		"name": "fur_nace",
+		"level": 14,
+		"xp": 1279.9453,
+		"uuid": "4f41dcda-449a-46b7-8635-88979061fdd2"
+	},
+	{
+		"name": "ace_huli",
+		"level": 28,
+		"xp": 3494,
+		"uuid": "c318c4ad-cb58-4242-b898-a926443f6802"
+	},
+	{
+		"name": "guybrrush",
+		"level": 20,
+		"xp": 1892,
+		"uuid": "7e8775d3-492e-466c-bded-a06f94a8291e"
+	},
+	{
+		"name": "lenawydd",
+		"level": 15,
+		"xp": 1389.128,
+		"uuid": "c1820e52-46c7-4c37-9d8c-62158d55b97f"
+	},
+	{
+		"name": "avenijel",
+		"level": 14,
+		"xp": 1266.9198,
+		"uuid": "ae74ad41-b733-46ca-9d92-3f6d836cca6f"
+	},
+	{
+		"name": "Dark_Warrior73",
+		"level": 12,
+		"xp": 1083.9218,
+		"uuid": "1be70ac6-624f-4a0e-b4c0-7adb298e45f2"
+	},
+	{
+		"name": "saskiajordan97",
+		"level": 13,
+		"xp": 1127,
+		"uuid": "88db7782-4caf-4a19-bea4-a1598bcd447a"
+	},
+	{
+		"name": "hell_spawn_1993",
+		"level": 16,
+		"xp": 1444,
+		"uuid": "933a0167-561b-4be2-8d3a-e553fdad36c3"
+	},
+	{
+		"name": "litago89_ha",
+		"level": 12,
+		"xp": 1074.8678,
+		"uuid": "c53ebfb9-e386-4c0a-ac3f-c1c11d776587"
+	},
+	{
+		"name": "jeremy__btw",
+		"level": 16,
+		"xp": 1459.45,
+		"uuid": "17c0a300-f2b6-4667-a133-6e48b2436003"
+	},
+	{
+		"name": "azaizen",
+		"level": 12,
+		"xp": 1066,
+		"uuid": "a3c71e64-acf9-45f1-ae59-f43c70cb92d1"
+	},
+	{
+		"name": "carolinet",
+		"level": 22,
+		"xp": 2276.6296,
+		"uuid": "717bb1f5-20db-4d7b-bfc0-ea0f5d28e181"
+	},
+	{
+		"name": "einstein0973",
+		"level": 12,
+		"xp": 1090,
+		"uuid": "d9186d0a-a323-4887-bff7-46241308be9c"
+	},
+	{
+		"name": "trey4514",
+		"level": 17,
+		"xp": 1564.3608,
+		"uuid": "d72441e2-0751-4264-989f-f58754e91639"
+	},
+	{
+		"name": "thefrozenfish2",
+		"level": 17,
+		"xp": 1558.6707,
+		"uuid": "ecc455a8-6ec8-49a5-b5b4-d1469cdde943"
+	},
+	{
+		"name": "emperor_blizzard",
+		"level": 12,
+		"xp": 1013.18353,
+		"uuid": "ce4a13b5-5249-44fd-a37b-011d21a85fc1"
+	},
+	{
+		"name": "27darkking",
+		"level": 33,
+		"xp": 4502,
+		"uuid": "c98ad877-660a-49d0-8b33-59a07e47a592"
+	},
+	{
+		"name": "HoY_82",
+		"level": 12,
+		"xp": 1071.1414,
+		"uuid": "59c32f6e-9b2e-42ae-b6a4-b5d30fad494b"
+	},
+	{
+		"name": "hellpiegamin",
+		"level": 19,
+		"xp": 1730.3557,
+		"uuid": "899cf199-cc5f-41a3-9e77-397e5a667c89"
+	},
+	{
+		"name": "anupak22",
+		"level": 24,
+		"xp": 2752.9897,
+		"uuid": "b6202b03-b6c4-4e83-879b-1d54440407c3"
+	},
+	{
+		"name": "ridger___",
+		"level": 14,
+		"xp": 1269.9921,
+		"uuid": "f45e427c-fb38-499a-b5c3-fe9f23cb986a"
+	},
+	{
+		"name": "maetti1286",
+		"level": 20,
+		"xp": 1801.7184,
+		"uuid": "4bd4f1ba-4ef6-4802-ab7b-ede98df77ba8"
+	},
+	{
+		"name": "bigd_tiny420",
+		"level": 14,
+		"xp": 1217.8081,
+		"uuid": "cafb1352-f8d1-44ce-8758-bf82ef13f6cf"
+	},
+	{
+		"name": "pengicale",
+		"level": 12,
+		"xp": 1016.4336,
+		"uuid": "beb8e160-f22a-44ea-bfc5-6a6b06da7e8d"
+	},
+	{
+		"name": "zazzoto",
+		"level": 25,
+		"xp": 2894,
+		"uuid": "5461db8c-0405-4c2d-94df-321a1cbcf31b"
+	},
+	{
+		"name": "zenzykai",
+		"level": 20,
+		"xp": 1963.9061,
+		"uuid": "51ad7135-1313-461f-8efc-595621742db7"
+	},
+	{
+		"name": "naarke",
+		"level": 31,
+		"xp": 4053.4458,
+		"uuid": "943c8f47-8b8a-4582-ba3b-2befb1479112"
+	},
+	{
+		"name": "terroben",
+		"level": 12,
+		"xp": 1042.9275,
+		"uuid": "c02fc318-fee9-4557-8f93-49aef6e77851"
+	},
+	{
+		"name": "diagoraspl",
+		"level": 12,
+		"xp": 1099.5514,
+		"uuid": "1ecd3646-e0e4-41d5-929c-7dd92f359c26"
+	},
+	{
+		"name": "eliwei123",
+		"level": 12,
+		"xp": 1055.3083,
+		"uuid": "76b20fa0-19b3-4c6b-b649-9af5ed422d50"
+	},
+	{
+		"name": "N3tronix",
+		"level": 12,
+		"xp": 1063.397,
+		"uuid": "21ab4fe2-6785-428f-b3a5-24e71e0fe2b8"
+	},
+	{
+		"name": "Brother_Ding",
+		"level": 19,
+		"xp": 1750.8068,
+		"uuid": "d71f4628-1c57-458b-9a1d-c7553b2853e0"
+	},
+	{
+		"name": "erionasplash",
+		"level": 19,
+		"xp": 1701,
+		"uuid": "ca93b53b-cd54-4f9f-a103-bf0c83b64ee3"
+	},
+	{
+		"name": "natertot145",
+		"level": 13,
+		"xp": 1183.7052,
+		"uuid": "7640f085-d0f9-4f92-866e-ae39f8abce40"
+	},
+	{
+		"name": "Tavy__",
+		"level": 13,
+		"xp": 1130.7341,
+		"uuid": "5d99a3ae-b251-4971-acd1-8c523681dbf8"
+	},
+	{
+		"name": "redlevi05",
+		"level": 13,
+		"xp": 1136.4803,
+		"uuid": "6317aea2-c63d-479e-bbfc-ad0c67154e48"
+	},
+	{
+		"name": "Jambox15",
+		"level": 14,
+		"xp": 1272,
+		"uuid": "9cd53a13-4470-42af-ada5-9195c9335e5e"
+	},
+	{
+		"name": "bandybc",
+		"level": 13,
+		"xp": 1125.7399,
+		"uuid": "8aeeefe3-57e2-48b6-afe3-0946925f3b3e"
+	},
+	{
+		"name": "ms_crafty_",
+		"level": 15,
+		"xp": 1324.9502,
+		"uuid": "4315aa80-3ddd-41c8-a34a-3c575cad1021"
+	},
+	{
+		"name": "magdaluo66",
+		"level": 12,
+		"xp": 1024.8914,
+		"uuid": "e51d6c61-6730-414e-af6c-fbae11922439"
+	},
+	{
+		"name": "tracyw1978",
+		"level": 12,
+		"xp": 1028.0398,
+		"uuid": "18a9faba-1977-469b-8156-ed0f1a3c765b"
+	},
+	{
+		"name": "Krayks",
+		"level": 12,
+		"xp": 1098.1185,
+		"uuid": "c987592c-e92a-4f31-b1be-8ec2f16bf9c7"
+	},
+	{
+		"name": "th3ntity",
+		"level": 12,
+		"xp": 1095.3021,
+		"uuid": "deee0c44-5a84-4178-8e23-d017a79feaae"
+	},
+	{
+		"name": "lcedagger",
+		"level": 14,
+		"xp": 1257.0745,
+		"uuid": "1568cc3b-b397-4290-a897-287961d9cf32"
+	},
+	{
+		"name": "pogaafthe2nd",
+		"level": 12,
+		"xp": 1070.2659,
+		"uuid": "091faf02-dcb1-4507-98ae-b7b4c95885d4"
+	},
+	{
+		"name": "oldunicorn77",
+		"level": 16,
+		"xp": 1472.5189,
+		"uuid": "ef96e7eb-d458-4759-9941-dee6009d4fb4"
+	},
+	{
+		"name": "shanolt3",
+		"level": 24,
+		"xp": 2796,
+		"uuid": "ffa042e2-1941-4ad6-95fd-d140668000bc"
+	},
+	{
+		"name": "mjrwilk",
+		"level": 13,
+		"xp": 1162.0435,
+		"uuid": "65e7e8a0-c989-4c1d-a283-1391c9f2cc75"
+	},
+	{
+		"name": "lt_einstein",
+		"level": 12,
+		"xp": 1092.4081,
+		"uuid": "3c5ebb68-dd64-4c32-9c5c-4b5e1b43911a"
+	},
+	{
+		"name": "eksedre",
+		"level": 21,
+		"xp": 2091,
+		"uuid": "7fc951fe-a57f-456c-9b79-f5c8492a0fa0"
+	},
+	{
+		"name": "queenjellyfish",
+		"level": 14,
+		"xp": 1290.4678,
+		"uuid": "75ea6ef5-b1ff-4aa4-935d-32de30742d21"
+	},
+	{
+		"name": "angrrrrydad",
+		"level": 14,
+		"xp": 1257.3479,
+		"uuid": "71afc212-16b2-4a70-bf8d-29cc81e55a62"
+	},
+	{
+		"name": "Kglucky777",
+		"level": 12,
+		"xp": 1055.863,
+		"uuid": "61992046-f422-4919-85c2-c994a8157eda"
+	},
+	{
+		"name": "Black_Eagle70",
+		"level": 12,
+		"xp": 1070.4526,
+		"uuid": "04cce0e0-9b8d-47cc-83c8-e0a18991e301"
+	},
+	{
+		"name": "Cowguy1_2_3",
+		"level": 12,
+		"xp": 1042.0657,
+		"uuid": "d9943fb3-fa46-4d47-b71a-75caee202ef5"
+	},
+	{
+		"name": "dannysnowpaw",
+		"level": 14,
+		"xp": 1292.2698,
+		"uuid": "bf12dc2f-1ff2-44ae-a38b-8a88aa75e7bb"
+	},
+	{
+		"name": "muttpacket",
+		"level": 15,
+		"xp": 1320.435,
+		"uuid": "eee8ce04-94b6-4a84-a804-422ce3ec67ec"
+	},
+	{
+		"name": "lothar286a",
+		"level": 12,
+		"xp": 1079.4016,
+		"uuid": "9a596656-ab10-4d5b-8430-39c8c874d28f"
+	},
+	{
+		"name": "wisemanpendle",
+		"level": 12,
+		"xp": 1089.3623,
+		"uuid": "9a34b2f9-6914-4b89-83ed-eb3d0ee0f994"
+	},
+	{
+		"name": "legendaryroots",
+		"level": 39,
+		"xp": 5765,
+		"uuid": "f6325c4f-bf71-45b4-99da-fac27654af20"
+	},
+	{
+		"name": "tigercane",
+		"level": 12,
+		"xp": 1055.8477,
+		"uuid": "e6848698-d508-4579-86c7-d065c21a138f"
+	},
+	{
+		"name": "Roccoswede",
+		"level": 12,
+		"xp": 1041.2723,
+		"uuid": "4c0a6829-9c19-45dd-b143-0795fedcdb53"
+	},
+	{
+		"name": "jgray1178",
+		"level": 14,
+		"xp": 1200.0778,
+		"uuid": "91e1435c-86ca-40d0-81a5-5224daadc812"
+	},
+	{
+		"name": "Misstykal",
+		"level": 12,
+		"xp": 1001,
+		"uuid": "4c3ac062-c27f-47eb-8f4a-a32315abda5b"
+	},
+	{
+		"name": "explodingdice",
+		"level": 16,
+		"xp": 1478.2645,
+		"uuid": "377ed0e7-5a4a-458a-b1e2-5332f71797db"
+	},
+	{
+		"name": "acg94",
+		"level": 13,
+		"xp": 1138.8314,
+		"uuid": "857bf551-5854-421a-8396-f29dfc20b05e"
+	},
+	{
+		"name": "xploit_1",
+		"level": 14,
+		"xp": 1277,
+		"uuid": "b22b833a-8075-4f15-bc2c-bbd44b688f0e"
+	},
+	{
+		"name": "zombihuntress",
+		"level": 26,
+		"xp": 3107,
+		"uuid": "8191fcc2-9f24-4d28-8049-8c170f0cb2b5"
+	},
+	{
+		"name": "soulfulmarch",
+		"level": 20,
+		"xp": 1804.5203,
+		"uuid": "5b090c36-7508-4a6e-bf3f-bbd33317055b"
+	},
+	{
+		"name": "Meeffas",
+		"level": 23,
+		"xp": 2460.0132,
+		"uuid": "dcb27514-3e10-48c3-bcf9-a5b12e32e7d2"
+	},
+	{
+		"name": "luckiestrex3245",
+		"level": 14,
+		"xp": 1296.6215,
+		"uuid": "71865155-bc38-49dd-ac6a-bfbc2e292a80"
+	},
+	{
+		"name": "kingofjokers420",
+		"level": 13,
+		"xp": 1157.9539,
+		"uuid": "1526a533-cf5e-4859-a7b1-d1d10b331336"
+	},
+	{
+		"name": "Grim_Stoner",
+		"level": 14,
+		"xp": 1250.8635,
+		"uuid": "4a2158e2-c252-43c6-b4e1-45d4a2b11b2d"
+	},
+	{
+		"name": "draigon_xceed",
+		"level": 14,
+		"xp": 1218,
+		"uuid": "3aad1c4a-3f5a-4222-9af2-ffdf4cc63e55"
+	},
+	{
+		"name": "Lady_Moonshadow",
+		"level": 12,
+		"xp": 1003.916,
+		"uuid": "c7a614c4-a74a-414f-ac17-9fd8763ced69"
+	},
+	{
+		"name": "zaxus12",
+		"level": 12,
+		"xp": 1010.02844,
+		"uuid": "4f41dcda-449a-46b7-8635-88979061fdd2"
+	},
+	{
+		"name": "mandalise",
+		"level": 12,
+		"xp": 1015.75397,
+		"uuid": "fa459e3a-cee6-46ff-99e5-984fc6cdc68c"
+	},
+	{
+		"name": "paradoxiusblack",
+		"level": 15,
+		"xp": 1399,
+		"uuid": "4833256b-8ea1-445a-b16b-5d79aa8e4307"
+	},
+	{
+		"name": "DeaPulchritudo",
+		"level": 14,
+		"xp": 1226,
+		"uuid": "964a9b63-7b7a-41ed-8475-48040950604c"
+	},
+	{
+		"name": "vaultpanda02",
+		"level": 13,
+		"xp": 1103.3041,
+		"uuid": "7430b99b-f999-45ed-88e5-de7dbdfb626e"
+	},
+	{
+		"name": "br0wn3y3dgirl",
+		"level": 12,
+		"xp": 1090.8727,
+		"uuid": "562e88ac-1d98-4219-806f-eb137776595d"
+	},
+	{
+		"name": "enruko2",
+		"level": 12,
+		"xp": 1099.1704,
+		"uuid": "cbae339f-4a87-45a3-9083-90bdc270501b"
+	},
+	{
+		"name": "19ks93",
+		"level": 13,
+		"xp": 1172.406,
+		"uuid": "0e89c569-b9f2-4bf0-a311-e4a1f82a3d7a"
+	},
+	{
+		"name": "NM_crazy",
+		"level": 13,
+		"xp": 1125.4575,
+		"uuid": "8de23038-634d-4c46-92b0-9c7b35579671"
+	},
+	{
+		"name": "renmark24",
+		"level": 12,
+		"xp": 1021.87476,
+		"uuid": "ec3a530f-f0ae-4979-9e4b-6de62522723a"
+	},
+	{
+		"name": "happymummy",
+		"level": 13,
+		"xp": 1163,
+		"uuid": "5cd795f8-3b63-4d39-b569-c8d81306fe12"
+	},
+	{
+		"name": "msolla19",
+		"level": 12,
+		"xp": 1024.719,
+		"uuid": "18a9faba-1977-469b-8156-ed0f1a3c765b"
+	},
+	{
+		"name": "unkool_dad",
+		"level": 12,
+		"xp": 1087.1796,
+		"uuid": "18c823de-1c30-4410-b374-e41c370ce84c"
+	},
+	{
+		"name": "xinaro",
+		"level": 14,
+		"xp": 1278.1398,
+		"uuid": "e4edcce7-f528-44a3-8660-98b5fb514468"
+	},
+	{
+		"name": "trinityzn",
+		"level": 15,
+		"xp": 1367.5996,
+		"uuid": "44bfb833-9180-4fb0-b9ca-ecd30869689a"
+	},
+	{
+		"name": "Fairer010",
+		"level": 12,
+		"xp": 1027.9775,
+		"uuid": "594903ff-27e3-4938-bdd9-06aff8dc4715"
+	},
+	{
+		"name": "antonmartin04",
+		"level": 20,
+		"xp": 1843.5654,
+		"uuid": "e528fca9-ca58-4db1-ad85-eee5663863ef"
+	},
+	{
+		"name": "emajisLT",
+		"level": 12,
+		"xp": 1052.0767,
+		"uuid": "db4985d1-d9e6-4373-b62a-4db6ebfb0eb4"
+	},
+	{
+		"name": "YoMummaClaire",
+		"level": 13,
+		"xp": 1118,
+		"uuid": "8499a0fa-7c80-469b-bdcc-1fc5ac340f69"
+	},
+	{
+		"name": "bobokgirl",
+		"level": 23,
+		"xp": 2551,
+		"uuid": "6329933b-fb98-4209-8b69-69494373a65e"
+	},
+	{
+		"name": "jpalmer2014",
+		"level": 12,
+		"xp": 1025.6409,
+		"uuid": "cfaefb14-46d5-473b-9e8e-67ecbf119df7"
+	},
+	{
+		"name": "Adreos2",
+		"level": 12,
+		"xp": 1067.1816,
+		"uuid": "95a1e17a-361b-423a-ba65-b1e0fbe9c966"
+	},
+	{
+		"name": "darkest9469",
+		"level": 25,
+		"xp": 2847.161,
+		"uuid": "a37759b7-a741-43b6-b8f1-f1e4668072d0"
+	},
+	{
+		"name": "masop744",
+		"level": 12,
+		"xp": 1087.8291,
+		"uuid": "88d26c42-11b7-4839-bdc4-4654b02aa827"
+	},
+	{
+		"name": "cyberwolf139",
+		"level": 12,
+		"xp": 1017.71625,
+		"uuid": "dbe5a5c1-a5c0-4d2f-a636-21cc233ce2ff"
+	},
+	{
+		"name": "twolf999",
+		"level": 18,
+		"xp": 1608,
+		"uuid": "816114cc-e384-4c7d-92b4-acd867115d73"
+	},
+	{
+		"name": "FunIsGood_",
+		"level": 12,
+		"xp": 1070,
+		"uuid": "dd7116b2-6890-4e92-a019-c2591bb7bd0a"
+	},
+	{
+		"name": "Sqare24",
+		"level": 13,
+		"xp": 1186,
+		"uuid": "6efba960-8708-4252-856b-ff01de7ed3d6"
+	},
+	{
+		"name": "m4gicalme",
+		"level": 12,
+		"xp": 1042.9971,
+		"uuid": "b8f2d88a-ba32-4367-adee-846c6038aee4"
+	},
+	{
+		"name": "Kourtney_Cool",
+		"level": 13,
+		"xp": 1142.8755,
+		"uuid": "0f23a497-4882-4706-9523-593154e43cb5"
+	},
+	{
+		"name": "draconad",
+		"level": 16,
+		"xp": 1475.5847,
+		"uuid": "dbea6b51-5607-489e-9346-fd5580cfa75b"
+	},
+	{
+		"name": "mapleleaf09",
+		"level": 12,
+		"xp": 1022.7968,
+		"uuid": "7ed3587b-e656-4689-90d6-08e11daaf907"
+	},
+	{
+		"name": "keeperofhonor03",
+		"level": 17,
+		"xp": 1595,
+		"uuid": "e3f9ca8f-7e77-424a-933e-f4ed0f81c45b"
+	},
+	{
+		"name": "SFK1231",
+		"level": 12,
+		"xp": 1079.0117,
+		"uuid": "d6a1becf-8ab0-4e87-8e00-d62db9c8cfb7"
+	}
 ]
